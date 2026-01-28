@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1747754072 source:c:\users\user\desktop\bankcpp\bankaccountimp.cpp
+	"bankAccount.h"
+	<iostream>
+
+1747750730 c:\users\user\desktop\bankcpp\bankaccount.h
+
+1747750572 source:c:\users\user\desktop\bankcpp\main.cpp
+	<iostream>
+	"bankAccount.h"
+
+1747754905 source:c:\users\user\desktop\bankcpp\checkingaccountimp.cpp
+	"checkingAccount.h"
+	<iostream>
+
+1747754072 c:\users\user\desktop\bankcpp\checkingaccount.h
+	"bankAccount.h"
+

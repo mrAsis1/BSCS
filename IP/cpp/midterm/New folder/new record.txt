@@ -1,0 +1,5 @@
+Caleb,10,1hr 4min 16sec,6.42667,9.3361
+Daniel,10,1hr 5min 1sec,6.50167,9.2284
+Paul,20,2hr 28min 27sec,7.4225,8.08353
+Mark,20,2hr 11min 31sec,6.57583,9.12432
+Mary,10,1hr 6min 52sec,6.68667,8.97308

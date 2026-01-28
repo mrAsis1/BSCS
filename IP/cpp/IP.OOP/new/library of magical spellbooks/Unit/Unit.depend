@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1748451184 source:c:\users\user\desktop\new\library of magical spellbooks\unit\main.cpp
+	<iostream>
+	"BattleHistory.h"
+
+1748449297 source:c:\users\user\desktop\new\library of magical spellbooks\unit\soldier.cpp
+	"Soldier.h"
+
+1748448381 source:c:\users\user\desktop\new\library of magical spellbooks\unit\unit.cpp
+	"Unit.h"
+
+1748448348 c:\users\user\desktop\new\library of magical spellbooks\unit\unit.h
+	<string>
+
+1748449297 source:c:\users\user\desktop\new\library of magical spellbooks\unit\archer.cpp
+	"Archer.h"
+
+1748449297 c:\users\user\desktop\new\library of magical spellbooks\unit\archer.h
+	"Unit.h"
+
+1748448621 c:\users\user\desktop\new\library of magical spellbooks\unit\soldier.h
+	"Unit.h"
+
+1748450972 source:c:\users\user\desktop\new\library of magical spellbooks\unit\battlehistory.cpp
+	"BattleHistory.h"
+
+1748449783 c:\users\user\desktop\new\library of magical spellbooks\unit\battlehistory.h
+	"Soldier.h"
+	"Archer.h"
+

@@ -1,0 +1,5 @@
+Average of Student 1 : 84.6
+Average of Student 2 : 75.2
+Standard Deviation of Student 1 : 7.60526
+Standard Deviation of Student 2 : 9.30376
+Pearson Correlation Coefficient : 1.1073

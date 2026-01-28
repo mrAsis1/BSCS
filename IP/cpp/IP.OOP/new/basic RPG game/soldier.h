@@ -1,0 +1,6 @@
+#ifndef SOLDIER_H_INCLUDED
+#define SOLDIER_H_INCLUDED
+
+
+
+#endif // SOLDIER_H_INCLUDED

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1746608420 source:c:\users\user\desktop\person\main.cpp
+	<iostream>
+	"person.h"
+	"student.h"
+	"staff.h"
+
+1746603717 source:c:\users\user\desktop\person\personimp.cpp
+	"person.h"
+	<iostream>
+
+1746606551 c:\users\user\desktop\person\person.h
+	<string>
+
+1746606619 source:c:\users\user\desktop\person\studentimp.cpp
+	"student.h"
+	<iostream>
+
+1746607858 c:\users\user\desktop\person\student.h
+	<string>
+	"person.h"
+
+1746608518 source:c:\users\user\desktop\person\staffimp.cpp
+	"staff.h"
+	<iostream>
+
+1746608518 c:\users\user\desktop\person\staff.h
+	"person.h"
+	<string>
+

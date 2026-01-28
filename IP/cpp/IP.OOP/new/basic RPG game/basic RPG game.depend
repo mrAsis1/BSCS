@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1748443036 source:c:\users\user\desktop\new\basic rpg game\main.cpp
+	<iostream>
+	"Warrior.h"
+	"Mage.h"
+	"Archer.h"
+
+1748432534 source:c:\users\user\desktop\new\basic rpg game\gamecharacterimp.cpp
+	"GameCharacter.h"
+	<iostream>
+
+1748432535 c:\users\user\desktop\new\basic rpg game\gamecharacter.h
+	<vector>
+	<string>
+	<cmath>
+
+1748438026 source:c:\users\user\desktop\new\basic rpg game\warriorimop.cpp
+	"Warrior.h"
+	<iostream>
+	<string>
+
+1748434728 c:\users\user\desktop\new\basic rpg game\warrior.h
+	"GameCharacter.h"
+
+1748442896 source:c:\users\user\desktop\new\basic rpg game\mageimp.cpp
+	"Mage.h"
+	<iostream>
+
+1748434998 c:\users\user\desktop\new\basic rpg game\mage.h
+	<vector>
+	"GameCharacter.h"
+
+1748442896 source:c:\users\user\desktop\new\basic rpg game\archerimp.cpp
+	"Archer.h"
+	<iostream>
+
+1748441959 c:\users\user\desktop\new\basic rpg game\archer.h
+	"GameCharacter.h"
+

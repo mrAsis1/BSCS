@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1747748715 source:c:\users\user\desktop\temp\main.cpp
+	<iostream>
+	"ID.h"
+
+1747748788 source:c:\users\user\desktop\temp\tempimp.cpp
+	"Temp.h"
+
+1747748788 c:\users\user\desktop\temp\temp.h
+	<string>
+
+1747748788 source:c:\users\user\desktop\temp\idimp.cpp
+	"ID.h"
+
+1747748788 c:\users\user\desktop\temp\id.h
+	"Temp.h"
+
